@@ -1,7 +1,9 @@
 # CKA_pathway_preparation
-Handwritten notes to get [certified](https://github.com/coolguy0704/CKA_pathway_preparation/blob/main/CKA_Certificate.pdf "certified") as C.K.A(Certified Kubernetes Administrator) with minimal knowledge of Docker and Kubernetes. This notes is prepared in a structured way that follows exam pattern.
+Handwritten notes to get certified as C.K.A(Certified Kubernetes Administrator) with minimal knowledge of Docker and Kubernetes. This notes is prepared in a structured way that follows exam pattern.
 
 Note: When this notes was prepared(May 2020), Security was part of CKA. But it was separated as another certification CKS. So this contains basics of security section as well which is needed for CKS.
+
+[Cert Notes](https://github.com/coolguy0704/CKA_pathway_preparation/blob/main/Kubernetes_My_Notes.pdf/ "Cert Notes")
 
 ### Kubernetes Playground
 For a quick playground (utilizes minikube automation to setup the cluster) use below playground to install, destroy, troubleshoot clusters.

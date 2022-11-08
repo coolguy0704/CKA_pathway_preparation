@@ -11,4 +11,5 @@ For a quick playground (utilizes minikube automation to setup the cluster) use b
 ### Kubernetes from Scratch
 This is a long route to ensure that we understand each task required to bootstrap a kubernetes cluster. Here we install each core component of k8s from scratch ground-up utilizing binary files using vagrant.
 
-[Kubernetes the Hard Way](https://labs.play-with-k8s.com/ "Kubernetes the Hard Way")
+[Kubernetes the Hard Way](https://github.com/coolguy0704/kubernetes-the-hard-way "Kubernetes the Hard Way")
+

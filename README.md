@@ -1,5 +1,6 @@
 # CKA_pathway_preparation
 Handwritten notes to get certified as C.K.A(Certified Kubernetes Administrator) with minimal knowledge of Docker and Kubernetes. This notes is prepared in a structured way that follows exam pattern.
+
 Note: When this notes was prepared(May 2020), Security was part of CKA. But it was separated as another certification CKS. So this contains basics of security section as well which is needed for CKS.
 
 ### Kubernetes Playground
